@@ -1,0 +1,15 @@
+Christopher Showalter
+April 17th, 2011
+CSC 2310: Principles of Computer Programming
+Project 1: Drawing A Bar Graph
+
+
+This program will draw a graph based on input entered into the command line.
+The input is organized in the following format: <width> <height> <data1>
+<data2> <data3> ... <dataN> where <width> and <height> are going to
+represent the width and height of the graph respectively.
+<data1> through <dataN> will represent the value for each of the
+bars in the bar graph. The data can be both floats and integers.
+
+To use this program, enter the numbers into the command line that correspond
+to the format given above. Then run the program, and your graph will appear.
